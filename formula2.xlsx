@@ -1,0 +1,3 @@
+Time Elapsed,Formula Size,Formula,is Terminated?
+1.184,7,(G ((! q) | (G (! p))))
+1.311,7,(G ((! q) | (G (! p)))),1
