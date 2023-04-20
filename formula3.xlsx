@@ -1,0 +1,3 @@
+Time Elapsed,Formula Size,Formula,is Terminated?
+10.834,16,(((F ((r & (F s)) | (p & (F q)))) | (G (! p))) | (G (! s)))
+11.888,15,(((F ((r & s) | (p & (F q)))) | (G (! p))) | (G (! s)))
